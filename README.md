@@ -25,11 +25,9 @@ powerbi-sales-dashboard/
 
 ## 📷 Dashboard
 
-> Adicione uma captura de tela do dashboard na pasta `images`.
+Captura de tela do dashboard desenvolvido no Power BI.
 
-```markdown
 ![Dashboard](images/dashboard.png)
-```
 
 ## 📚 Observação
 
