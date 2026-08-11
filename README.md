@@ -1,34 +1,29 @@
-# 📊 Power BI Sales Dashboard
+# 📊 Power BI Dashboards
 
-Dashboard desenvolvido como parte de um laboratório prático do curso da **Data Science Academy (DSA)**, com o objetivo de praticar modelagem de dados, Power Query, DAX e criação de visualizações no Power BI.
+Repositório com projetos de **Business Intelligence e análise de dados desenvolvidos no Power BI**, incluindo laboratórios práticos realizados durante meus estudos na **Data Science Academy (DSA)**.
 
-## 📌 Objetivo
+## 📁 Projetos
 
-Explorar um conjunto de dados de vendas e construir um dashboard interativo para acompanhar indicadores de desempenho e apoiar a análise dos dados.
+### 🛒 Sales Dashboard
 
-## 🛠 Ferramentas Utilizadas
+Dashboard desenvolvido para praticar modelagem de dados, Power Query, DAX e criação de visualizações no Power BI.
+
+➡️ [Acessar projeto](sales-dashboard/)
+
+### 📈 Sales & Profitability Dashboard
+
+Dashboard focado em análise de vendas, custos, margem de lucro e indicadores-chave de desempenho (KPIs).
+
+➡️ [Acessar projeto](sales-profitability-dashboard/)
+
+## 🛠️ Tecnologias
 
 - Power BI
 - Power Query
 - DAX
 - Microsoft Excel
+- Modelagem de dados
 
-## 📁 Estrutura do Projeto
+## 🎯 Objetivo
 
-```
-powerbi-sales-dashboard/
-├── dashboard.pbix
-├── dataset/
-├── images/
-└── README.md
-```
-
-## 📷 Dashboard
-
-Captura de tela do dashboard desenvolvido no Power BI.
-
-![Dashboard](images/dashboard.png)
-
-## 📚 Observação
-
-Este projeto foi desenvolvido durante um laboratório prático da **Data Science Academy (DSA)** para fins de aprendizado e prática das ferramentas do Power BI.
+Utilizar projetos práticos para desenvolver competências em **Business Intelligence, análise de dados, modelagem e visualização de informações**.
