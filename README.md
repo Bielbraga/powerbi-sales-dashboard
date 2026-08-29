@@ -24,6 +24,14 @@ Entre as análises realizadas estão a relação entre salário anual e gasto, r
 
 ➡️ [Acessar projeto](marketing-campaign-analysis/)
 
+### 🛍️ Commercial Sales Dashboard
+
+Dashboard desenvolvido para análise de **desempenho comercial e indicadores de vendas**, explorando informações relacionadas a fabricantes, categorias, segmentos, pontos de venda e regiões.
+
+O projeto utiliza **Power BI, Power Query, DAX e Excel** para transformar os dados em visualizações e indicadores que facilitam a análise do desempenho comercial.
+
+➡️ [Acessar projeto](commercial-sales-dashboard/)
+
 ## 🛠️ Tecnologias
 
 - Power BI
