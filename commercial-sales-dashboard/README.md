@@ -27,11 +27,23 @@ O relatório apresenta diferentes perspectivas de análise, incluindo:
 
 ## 🖼️ Dashboard
 
-Abaixo está a exportação do relatório desenvolvido no Power BI:
+Abaixo estão algumas das páginas do relatório desenvolvido no Power BI:
 
-**[📄 Visualizar relatório completo (PDF)](images/dashboard.pdf)**
+### Visão geral
 
-> O arquivo apresenta as páginas do relatório desenvolvidas para a análise comercial.
+![Dashboard — Página 1](images/dashboard-page-1.png)
+
+### Outras páginas do relatório
+
+![Dashboard — Página 2](images/dashboard-page-2.png)
+
+![Dashboard — Página 3](images/dashboard-page-3.png)
+
+![Dashboard — Página 4](images/dashboard-page-4.png)
+
+![Dashboard — Página 5](images/dashboard-page-5.png)
+
+📄 **[Visualizar relatório completo em PDF](images/dashboard.pdf)**
 
 ## 📁 Estrutura do Projeto
 
@@ -40,6 +52,11 @@ commercial-sales-dashboard/
 ├── datasets/
 │   └── Dados_Comerciais.xlsx
 ├── images/
+│   ├── dashboard-page-1.png
+│   ├── dashboard-page-2.png
+│   ├── dashboard-page-3.png
+│   ├── dashboard-page-4.png
+│   ├── dashboard-page-5.png
 │   └── dashboard.pdf
 ├── dashboard.pbix
 └── README.md
@@ -47,7 +64,8 @@ commercial-sales-dashboard/
 
 - `dashboard.pbix` — arquivo principal do projeto no Power BI.
 - `datasets/Dados_Comerciais.xlsx` — conjunto de dados utilizado na análise.
-- `images/dashboard.pdf` — exportação do relatório para visualização.
+- `images/dashboard-page-*.png` — imagens das páginas do relatório para visualização no GitHub.
+- `images/dashboard.pdf` — exportação completa do relatório.
 
 ## 📌 Observação
 
