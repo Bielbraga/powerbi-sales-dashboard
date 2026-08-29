@@ -16,6 +16,14 @@ Dashboard focado em análise de vendas, custos, margem de lucro e indicadores-ch
 
 ➡️ [Acessar projeto](sales-profitability-dashboard/)
 
+### 🎯 Marketing Campaign Analysis
+
+Dashboard desenvolvido para analisar o perfil dos clientes, comportamento de gasto, desempenho das campanhas de marketing e padrões de compra por país e período.
+
+Entre as análises realizadas estão a relação entre salário anual e gasto, resultados das campanhas, características demográficas dos clientes e evolução dos gastos entre 2018 e 2023.
+
+➡️ [Acessar projeto](marketing-campaign-analysis/)
+
 ## 🛠️ Tecnologias
 
 - Power BI
@@ -23,7 +31,12 @@ Dashboard focado em análise de vendas, custos, margem de lucro e indicadores-ch
 - DAX
 - Microsoft Excel
 - Modelagem de dados
+- CSV
 
 ## 🎯 Objetivo
 
-Utilizar projetos práticos para desenvolver competências em **Business Intelligence, análise de dados, modelagem e visualização de informações**.
+Utilizar projetos práticos para desenvolver competências em **Business Intelligence, análise de dados, modelagem e visualização de informações**, transformando dados em análises úteis para apoio à tomada de decisão.
+
+## 📚 Contexto
+
+Os projetos deste repositório fazem parte da minha trajetória de estudos em **Power BI, análise de dados e Business Intelligence**, incluindo atividades práticas realizadas na **Data Science Academy (DSA)**.
